@@ -217,7 +217,7 @@ button {
 }
 
 .layout_padding {
-    padding-top: 90px;
+    padding-top: 50px;
     padding-bottom: 0px;
 }
 
@@ -865,3 +865,9 @@ input.email_text::placeholder {
 .copyright_text a:hover {
     color: #d89616;
 }
+
+.images {width: 157px; height: 150px;}
+
+.parrilla {width: 160px; height: 294px;}
+
+.equipos {width: 160px; height: 246px}
